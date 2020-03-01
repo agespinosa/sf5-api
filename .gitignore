@@ -13,3 +13,7 @@
 ###> configuracion del ide ###
 .idea
 ###< configuracion del ide ###
+
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
